@@ -1,0 +1,23 @@
+Step 1:
+pip install cv2
+pip install numpy as np
+pip install glob
+pip install ffmpeg
+pip install random
+Install Before Using
+
+Step 2:
+Create a folder Name NO_COPY
+Keep the Images you want to add in this Folder NO_COPY
+
+Step 3:
+Rename theAudio you want to add in this Video As Audio.aac
+
+
+Run Code 
+
+Step 4:
+Enter the seconds of your audio as input: like 4 min audio as 4*60sec
+
+after execution final file As Output_Final_Video.mp4
+& Muted video file As Video_No_Audio.mp4
